@@ -2,7 +2,7 @@
 
 /*
 Plugin Name: SelfLink
-Plugin URI: http://rainy-bow.com
+Plugin URI: http://rainy-bow.com/selflink.html
 Description: Add a hyperlink to selected text that links to the post itself.
 Author: Awaken Razor
 Version: 0.0.2
